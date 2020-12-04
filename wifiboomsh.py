@@ -17,7 +17,7 @@ bytes = random._urandom(1490)
 #############
 os.system("clear")
 os.system("figlet DDos Attack")
-print "조수환의 와이파이붐!"
+print "CHOSOOHWAN WIFI BOOM!"
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
